@@ -1,2 +1,2 @@
 # ListsProblemSolotion
-a collection of lists problems solved using python
+a collection of lists and strings problems solved using python
